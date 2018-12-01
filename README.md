@@ -13,9 +13,9 @@ To render these frames, use ffmpeg in your console by executing
 ffmpeg -framerate 30 -i {output folder path}\{ImageSet}%04d.jpg -vf “scale=trunc(iw/2)*2:trunc(ih/2)*2” -an {ImageSet}_Movie.mp4
 ```
 
-Here's an exmaple frame 
+Here's an example frame of output
 ![alt text][examp]
 
 This project was done in a group for CMPEN 454
 
-[examp]: https://github.com/Dreeseaw/ObjectDetection/example.jpg "Example Output"
+[examp]: /example.jpg "Example Output"
