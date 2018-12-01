@@ -1,5 +1,7 @@
+%change per your folder names
+projectFolder = '.\Project';
+
 %makes an array of folder names for each image set
-projectFolder = '.\Project3-DataSets';
 imageSetsFolder = fullfile(projectFolder, 'DataSets');
 dirs = dir(imageSetsFolder);
 isub = [dirs(:).isdir];
