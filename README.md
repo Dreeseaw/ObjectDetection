@@ -1,7 +1,7 @@
 # Object Detection using Matlab
 ### Four object detection algorithms in one program. 
 
-Object detection and tracking in a video doesn't need the help of deep learning. The four algorithms implemented in this script are Basic Background Subtraction (BS), Adaptive Background Subtraction (ABS), Simple Frame Differencing (SFD), and Persistent Frame Differencing (PFD) provide robust, stable results in a variety of scenes. 
+Object detection and tracking in a video doesn't need the help of deep learning. The four algorithms implemented in this script are Basic Background Subtraction (BS), Adaptive Background Subtraction (ABS), Simple Frame Differencing (SFD), and Persistent Frame Differencing (PFD). These provide robust, stable results in a variety of scenes. 
 
 #### Running
 
